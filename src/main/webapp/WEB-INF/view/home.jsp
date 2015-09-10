@@ -5,9 +5,9 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome</title>
+		<title>Welcome!!</title>
 	</head> 
 	<body>
-		<h2>${message}</h2>
+		<h2>home</h2>
 	</body>
 </html>
