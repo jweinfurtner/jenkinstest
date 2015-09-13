@@ -8,6 +8,6 @@
 		<title>Welcome!!</title>
 	</head> 
 	<body>
-		<h2>home</h2>
+		<h2>homey</h2>
 	</body>
 </html>
