@@ -8,6 +8,6 @@
 		<title>Welcome!!</title>
 	</head> 
 	<body>
-		<h2>home page!! ${testProperty}</h2>
+		<h2>home page!! ${testProperty} ${test}</h2>
 	</body>
 </html>

@@ -16,6 +16,7 @@ public class HomeController {
 	@RequestMapping(value = "/")
 	public String homepage(Model model)
 	{
+		model.addAttribute("test", "test1234");
 		model.addAttribute("testProperty", environment.getProperty("my.test.property"));
 		return "home";
 	}
